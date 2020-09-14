@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Full Stack Open](https://fullstackopen.com/en/ "Full Stack Open Homepage")
 
-## Available Scripts
+Learn React, Redux, Node.js, MongoDB, and GraphQL in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
-In the project directory, you can run:
+## General
 
-### `npm start`
+This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Course material
+### Part 0: Fundamentals of Web apps
+* General info
+* Fundamentals of Web apps
+### Part 1: Introduction to React
+* Introduction to React
+* Javascript
+* Component state, event handlers
+* A more complex state, debugging React apps
+### Part 2: Communicating with server
+* Rendering a collection, modules
+* Forms
+* Getting data from server
+* Altering data in server
+* Adding styles to React app
+### Part 3: Programming a server with NodeJS and Express
+* Node.js and Express
+* Deploying app to internet
+* Saving data to MongoDB
+* Validation and ESLint
+### Part 4: Testing Express servers, user administration
+* Structure of backend application, introduction to testing
+* Testing the backend
+* User administration
+* Token authentication
+### Part 5: Testing React apps, custom hooks
+* Login in frontend
+* props.children and proptypes
+* Testing React apps
+* End to end -testing
+### Part 6: State management with Redux
+* Flux-architecture and Redux
+* Many reducers
+* Communicating with server in a redux application
+* Connect
+### Part 7: React router, styling app with CSS and webpack
+* React-router
+* Custom hooks
+* More about styles
+* Webpack
+* Class components, Miscellaneous
+* Exercises: extending the bloglist
+### Part 8: GraphQL
+* GraphQL-server
+* React and GraphQL
+* Database and user administration
+* Login and updating the cache
+* Fragments and subscriptions
+### Part 9: Typescript
+* Background and introduction
+* First steps with Typescript
+* Typing the express app
+* React with types
